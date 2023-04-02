@@ -1,0 +1,24 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=VjbQYoWnVgQ
+
+
+Public link to the concept map
+https://drive.google.com/file/d/1vhjumRFVneELCAIJRjH9VXUR9Sw2PnGm/view?usp=sharing
+
+Name, Author, Edition, year and publisher of the Book: 
+Name: Understanding Machine Learning: From Theory to Algorithms
+Author: Shai Shalev-Shwartz and Shai Ben-David
+Year: 2014
+Publisher: Cambridge University Press
+
+Link to the book: https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+
+Book chapter: 11
+
+Group Number:
+21
+
+Group Members:
+19101110	Nirvik Guha Roy
+19101391	Humaira Rahman Oishi
+20101035	Md Iftekhar Hossain
