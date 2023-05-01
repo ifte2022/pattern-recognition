@@ -1,0 +1,15 @@
+Paper title:
+Live Stock Price Prediction Using Machine Learning
+
+
+Overleaf link:
+https://www.overleaf.com/3867599754kvdfwxbzhszm
+
+
+Group Number:
+21
+
+Group Members:
+19101110	Nirvik Guha Roy
+19101391	Humaira Rahman Oishi
+20101035	Md Iftekhar Hossain
